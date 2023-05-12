@@ -76,7 +76,7 @@ console.log(l);
 
 		//Set top to trigger animation
 		setTimeout(function() {
-			gif.style.transform = "translateY(" + (document.body.clientHeight * 2) + 'px)';
+			gif.style.transform = "translateY(" + (document.body.clientHeight * 3.5) + 'px)';
 		}, 100)
 
 		//Remove old gifs
